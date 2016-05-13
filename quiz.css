@@ -1,0 +1,16 @@
+.card-block {
+
+    border: 1px solid black;
+}
+
+
+.backToNormal {
+    border: 1px solid black;
+}
+
+.animateClass {
+
+    border: 7px solid green;
+    background-color: black;
+    color: white;
+}
