@@ -1,0 +1,31 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2004",
+      "price": "8999",
+      "color": "Black",
+      "purchased": false,
+      "description": "Buy this Nissan Rouge. Its super. Thanks for asking."
+    },
+    {
+      "make": "Nissan",
+      "model": "Gnome",
+      "year": "2005",
+      "price": "8999",
+      "color": "Black",
+      "purchased": false,
+      "description": "Buy this Nissan Gnome. Its super. Thanks for asking."
+    },
+    {
+      "make": "Nissan",
+      "model": "Warlock",
+      "year": "2006",
+      "price": "8997",
+      "color": "Black",
+      "purchased": false,
+      "description": "Buy this Nissan Warlock. Its super. Thanks for asking."
+    }
+  ]
+}
